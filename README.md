@@ -41,6 +41,10 @@ $ pytest --cov=.
 | `DJ07` | ModelForm.Meta should not set fields to `__all__`|
 | `DJ08` | Models that inherits from django db models should set `__str__`|
 
+## Basis
+
+This project is mainly based on [Django Coding Style](https://docs.djangoproject.com/en/stable/internals/contributing/writing-code/coding-style/) and authors' experience.
+
 ## Licence
 
 GPL
